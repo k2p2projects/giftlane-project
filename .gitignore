@@ -1,0 +1,27 @@
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated data stored under notebooks
+notebooks/data/raw/
+notebooks/data/processed/
